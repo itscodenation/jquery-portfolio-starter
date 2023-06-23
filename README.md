@@ -1,1 +1,1 @@
-# Portfolio_Unit6
+# jquery-portfolio-starter
